@@ -1,0 +1,4 @@
+spring.application.name=indusind
+spring.cloud.consul.host=172.17.0.1
+spring.cloud.consul.host.port: 8500
+spring.cloud.consul.config.enabled=true
